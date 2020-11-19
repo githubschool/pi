@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "What am I, a anime James Bond logo?"
 ---
 
-Caption here
+Ninja Kitty Quaalude
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
