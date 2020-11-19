@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome Dreamforce21"
 ---
 
-Caption here
+Caption here...
 
 ![codercat](https://octodex.github.com/images/codercat.jpg)
 {: .center}
