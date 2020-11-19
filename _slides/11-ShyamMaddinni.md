@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome Dreamforce21"
+title: "Welcome to our slide deck!"
 ---
 
 Caption here...
